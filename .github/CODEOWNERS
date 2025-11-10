@@ -1,0 +1,38 @@
+# Code Owners for EDAF
+#
+# These owners will be automatically requested for review when someone
+# opens a pull request that modifies files in specific paths.
+#
+# More info: https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners
+
+# Default owner for everything in the repo
+* @Tsuchiya2
+
+# Core configuration files
+/.claude/CLAUDE.md @Tsuchiya2
+/.claude/edaf-config.example.yml @Tsuchiya2
+/.claude/settings.json.example @Tsuchiya2
+
+# Workers (critical for code generation)
+/.claude/agents/database-worker-v1-self-adapting.md @Tsuchiya2
+/.claude/agents/backend-worker-v1-self-adapting.md @Tsuchiya2
+/.claude/agents/frontend-worker-v1-self-adapting.md @Tsuchiya2
+/.claude/agents/test-worker-v1-self-adapting.md @Tsuchiya2
+/.claude/agents/designer.md @Tsuchiya2
+/.claude/agents/planner.md @Tsuchiya2
+
+# Evaluators (critical for quality gates)
+/.claude/evaluators/ @Tsuchiya2
+
+# Scripts (execute in user's environment)
+/.claude/scripts/ @Tsuchiya2
+
+# Documentation
+/README.md @Tsuchiya2
+/CONTRIBUTING.md @Tsuchiya2
+/CODE_OF_CONDUCT.md @Tsuchiya2
+/SECURITY.md @Tsuchiya2
+/docs/ @Tsuchiya2
+
+# Installation script (runs on user's machine)
+/scripts/install.sh @Tsuchiya2

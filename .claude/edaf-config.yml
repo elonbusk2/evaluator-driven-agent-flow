@@ -1,0 +1,6 @@
+language_preferences:
+  documentation_language: en
+  terminal_output_language: en
+  save_dual_language_docs: false
+docker:
+  enabled: false
